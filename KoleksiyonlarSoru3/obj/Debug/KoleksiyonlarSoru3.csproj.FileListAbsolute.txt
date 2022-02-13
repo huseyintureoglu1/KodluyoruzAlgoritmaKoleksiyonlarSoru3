@@ -1,0 +1,7 @@
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\bin\Debug\KoleksiyonlarSoru3.exe.config
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\bin\Debug\KoleksiyonlarSoru3.exe
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\bin\Debug\KoleksiyonlarSoru3.pdb
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\obj\Debug\KoleksiyonlarSoru3.csproj.AssemblyReference.cache
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\obj\Debug\KoleksiyonlarSoru3.csproj.CoreCompileInputs.cache
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\obj\Debug\KoleksiyonlarSoru3.exe
+C:\Users\HT\source\repos\KoleksiyonlarSoru3\KoleksiyonlarSoru3\obj\Debug\KoleksiyonlarSoru3.pdb
